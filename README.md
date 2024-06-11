@@ -58,7 +58,7 @@ Tested with pybind11 v2.13.0 dev1.
 
 Git clone pybind11 module in `/wrapper` if `--recursive` is not used, and then compile: 
 
-bash```
+```bash
 git submodule add git@github.com:pybind/pybind11.git
 mkdir build
 cd build
