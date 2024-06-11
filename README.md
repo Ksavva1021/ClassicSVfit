@@ -56,7 +56,7 @@ If everything goes right, this should produce a root file.
 
 Tested with pybind11 v2.13.0 dev1.
 
-Git clone pybind11 module if recursive mode is not used, and then compile: 
+Git clone pybind11 module in `/wrapper` if `--recursive` is not used, and then compile: 
 
 bash```
 git submodule add git@github.com:pybind/pybind11.git
