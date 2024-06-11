@@ -60,8 +60,6 @@ Git clone pybind11 module in `/wrapper` if `--recursive` is not used, and then c
 
 bash```
 git submodule add git@github.com:pybind/pybind11.git
-
-# to compile
 mkdir build
 cd build
 cmake ..
